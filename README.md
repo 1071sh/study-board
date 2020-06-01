@@ -1,1 +1,1 @@
-# php-board
+# study-board
